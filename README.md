@@ -19,8 +19,8 @@
 
 지속적인 관심과 노력이 필요한 책임 분야입니다. '커리어 개발', '건강 관리', '팀 리딩'처럼 끝없이 가꾸고 발전시켜야 하는 삶의 중요한 영역들을 관리합니다.
 
-* *(여기에 첫 번째 관심 영역 링크를 추가하세요)*
-
+* **[GitHub-Grass-Motivation: GitHub 잔디 심기를 통한 동기 부여](./GitHub-Grass-Motivation.md)**
+    * GitHub 프로필의 Contribution Graph를 활용하여, 매일의 목표 달성을 시각적으로 추적하고 동기를 부여하는 아이디어입니다.
 ---
 
 ## Resources
