@@ -12,6 +12,9 @@
 * **[ArchSynapse: 코드 분석 및 시각화 도구 기획](./ArchSynapse.md)**
     * 소스 코드를 분석하여 애플리케이션의 구조와 의존성을 시각화하고, 코드 변경에 따른 영향 범위를 예측하는 도구 개발 프로젝트의 초기 기획안입니다.
 
+* **[Ebook Classification Program](./BookClassification.md)**
+    * 보유한 전자책(ebook)을 자동으로 분류하고, 책의 서문이나 줄거리를 요약하여 기록하는 자동화 프로그램 기획안입니다.
+
 ---
 
 ## Areas
